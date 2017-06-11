@@ -1,33 +1,46 @@
 <section class="project-list py-3">
-    <h2 class="text-center large-title pb-3">Projecten</h2>
-    <div class="row gutterless">
-        <div class="col-md-6 col-lg-3 offset-lg-3">
-            <a href="http://attorno.be" class="hidden-link" target="_blank">
-                <div class="card card-image-effect">
-                    <div class="card-img">
-                        <img src="design/img/projects/attorno.jpg" />
+    <div class="container">
+        <h2 class="text-center large-title pb-3">Projecten</h2>
+        <div class="row gutterless">
+            <div class="col-md-6 col-lg-4">
+                <a href="http://attorno.be" class="hidden-link" target="_blank">
+                    <div class="card card-image-effect">
+                        <div class="card-img">
+                            <img src="design/img/projects/attorno.jpg" />
+                        </div>
+                        <h2 class="card-title">Attorno</h2>
+                        <div class="card-text">
+                            Overheerlijke pizza met krokante dunne bodem, bereid in onze authentieke mobiele houtoven.
+                        </div>
                     </div>
-                    <h2 class="card-title">Attorno</h2>
-                    <div class="card-text">
-                        Overheerlijke pizza met krokante dunne bodem, bereid in onze authentieke mobiele houtoven.
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <a href="https://www.sportpunten.be" class="hidden-link" target="_blank">
+                    <div class="card card-image-effect">
+                        <div class="card-img">
+                            <img src="design/img/projects/sportpunten.jpg" />
+                        </div>
+                        <h2 class="card-title">Sportpunten</h2>
+                        <div class="card-text">
+                            Sportuitslagen van verschillende sporten en verbonden. Samengebracht in één handige website.
+                        </div>
                     </div>
-                </div>
-            </a>
-        </div>
-        <div class="col-md-6 col-lg-3">
-            <a href="https://www.sportpunten.be" class="hidden-link" target="_blank">
-                <div class="card card-image-effect">
-                    <div class="card-img">
-                        <img src="design/img/projects/sportpunten.jpg" />
+                </a>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <a href="http://www.huisartsenpraktijk-tspoor.be" class="hidden-link" target="_blank">
+                    <div class="card card-image-effect">
+                        <div class="card-img">
+                            <img src="design/img/projects/tspoor.jpg" />
+                        </div>
+                        <h2 class="card-title">Huisartsenpraktijk 't Spoor</h2>
+                        <div class="card-text">
+                        </div>
                     </div>
-                    <h2 class="card-title">Sportpunten</h2>
-                    <div class="card-text">
-                        Sportuitslagen van verschillende sporten en verbonden. Samengebracht in één handige website.
-                    </div>
-                </div>
-            </a>
-        </div>
-        <!-- <div class="col-md-6 col-lg-3">
+                </a>
+            </div>
+            <!-- <div class="col-md-6 col-lg-3">
             <a href="http://attorno.be" class="hidden-link" target="_blank">
                 <div class="card card-image-effect">
                     <div class="card-img">
@@ -51,5 +64,6 @@
                 </div>
             </a>
         </div> -->
+        </div>
     </div>
 </section>
