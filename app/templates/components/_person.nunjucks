@@ -1,0 +1,10 @@
+<section class="project-list pb-3">
+    <div class="container">
+        <div class="person">
+            <img src="/design/img/stef.jpg" alt="Photo of Stef Coenen" class="person-image">
+            <p class="person-name">--
+                <br><a href="https://twitter.com/@stefcoenen">@stefcoenen</a>
+                </p>
+        </div>
+    </div>
+</section>
