@@ -24,7 +24,6 @@
     </head>
     <body>
         {% block content %} {% endblock %}
-        {% include "components/_footer.nunjucks" %}
         <script src="design/js/lib.js"></script>
         <script src="design/js/applib.js"></script>
         <script>

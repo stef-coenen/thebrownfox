@@ -7,4 +7,5 @@
 {% include "../templates/components/_header.nunjucks" %}
 {% include "../templates/components/_contact.nunjucks" %}
 {% include "../templates/components/_person.nunjucks" %}
+{% include "components/_footer.nunjucks" %}
 {% endblock %}

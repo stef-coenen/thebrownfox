@@ -4,6 +4,5 @@
 {% block title %}Home{% endblock %}
 
 {% block content %}
-{% include "../templates/components/_header.nunjucks" %}
-{% include "../templates/components/_projects.nunjucks" %}
+{% include "../templates/components/_hero-block.nunjucks" %}
 {% endblock %}

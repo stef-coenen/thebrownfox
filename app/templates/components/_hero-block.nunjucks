@@ -1,0 +1,11 @@
+<div class="hero-block">
+    <div class="container">
+        <img src="design/img/logo-thebrownfox.svg" class="logo" />
+        <h1 class="title">The Brown Fox</h1>
+        <div class="quick-links scramble">
+            <a class="quick-link" href="/projects">Projecten</a>
+            <a class="quick-link" href="/contact">Contact</a>
+            <a class="quick-link" href="https://blog.thebrownfox.be" target="_blank">Blog</a>
+        </div>
+    </div>
+</div>
