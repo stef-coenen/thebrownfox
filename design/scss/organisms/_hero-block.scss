@@ -2,6 +2,7 @@
     padding: 5vh;
     height: 100vh;
     background-color: #fafafa;
+    overflow: hidden;
     > .container {
         height: 100%;
     }
@@ -14,5 +15,21 @@
         width: 5rem;
         margin-right: 2rem;
         float: left;
+    }
+    .navbar {
+        border: 0;
+    }
+    @include media-breakpoint-down(sm) {
+        padding: 0;
+        > .container {
+            padding: 0;
+            margin: 0;
+            height: 100%;
+            width: 100%;
+        }
+        .navbar {
+            height: 25%;
+            padding: 2.5rem 1rem;
+        }
     }
 }
