@@ -12,7 +12,9 @@
         margin: 0;
     }
     .logo {
-        width: 5rem;
+        width: auto;
+        height: 100%;
+        max-height: 5rem;
         margin-right: 2rem;
         float: left;
     }
@@ -29,7 +31,13 @@
         }
         .navbar {
             height: 25%;
-            padding: 2.5rem 1rem;
+            padding: 0;
+            display: flex;
+        }
+        .navbar-brand {
+            padding: 0;
+            margin-top: auto;
+            margin-bottom: auto;
         }
     }
 }
