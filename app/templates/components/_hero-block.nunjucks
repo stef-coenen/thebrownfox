@@ -3,7 +3,7 @@
         <nav class="navbar navbar-toggleable-md navbar-light">
             <a href="/" class="navbar-brand" title="Home">
                 <img src="design/img/logo-thebrownfox.svg" class="logo" />
-                <h1 class="title">The Brown Fox</h1>
+                <h1 class="title">The brown Fox</h1>
             </a>
         </nav>
         <div class="quick-links scramble">

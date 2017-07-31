@@ -1,11 +1,10 @@
 <!-- index.nunjucks -->
 {% extends "layout.nunjucks" %}
 
-{% block title %}Home{% endblock %}
+{% block title %}Over mij{% endblock %}
 
 {% block content %}
 {% include "../templates/components/_header.nunjucks" %}
 {% include "../templates/components/_contact.nunjucks" %}
-{% include "../templates/components/_person.nunjucks" %}
 {% include "components/_footer.nunjucks" %}
 {% endblock %}

@@ -4,32 +4,15 @@
     </button>
     <a href="/" class="navbar-brand" title="Home">
         <img src="design/img/logo-thebrownfox.svg" class="logo" />
-        <h1 class="title">The Brown Fox</h1>
+        <h1 class="title">The brown Fox</h1>
     </a>
     <div class="collapse navbar-collapse" id="navbar">
         <div class="navbar-nav ml-auto">
             <div class="quick-links vertical">
-                <a class="nav-link quick-link" href="/projects">Projecten</a>
-                <a class="nav-link quick-link" href="/contact">Contact</a>
+                <a class="nav-link quick-link" href="/projecten">Projecten</a>
+                <a class="nav-link quick-link" href="/over-mij">Over mij</a>
                 <a class="nav-link quick-link" href="https://blog.thebrownfox.be" target="_blank">Blog</a>
             </div>
         </div>
-        <!-- <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/projects">Projecten</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/contact">Contact</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/about">Over ons</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="//blog.thebrownfox.be" target="_blank">Blog</a>
-            </li>
-        </ul> -->
     </div>
 </nav>

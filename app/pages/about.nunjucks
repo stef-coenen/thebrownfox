@@ -1,9 +1,0 @@
-<!-- index.nunjucks -->
-{% extends "layout.nunjucks" %}
-
-{% block title %}Home{% endblock %}
-
-{% block content %}
-{% include "../templates/components/_header.nunjucks" %}
-{% include "components/_footer.nunjucks" %}
-{% endblock %}
