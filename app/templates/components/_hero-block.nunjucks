@@ -7,8 +7,8 @@
             </a>
         </nav>
         <div class="quick-links scramble">
-            <a class="quick-link" href="/projecten">Projecten</a>
-            <a class="quick-link" href="/over-mij">Over mij</a>
+            <a class="quick-link" href="/projecten.html">Projecten</a>
+            <a class="quick-link" href="/over-mij.html">Over mij</a>
             <a class="quick-link" href="https://blog.thebrownfox.be" target="_blank">Blog</a>
         </div>
     </div>

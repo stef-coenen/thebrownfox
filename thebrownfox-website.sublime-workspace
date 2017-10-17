@@ -1,0 +1,2057 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"post-atuh",
+				"post-author-image"
+			],
+			[
+				"molc",
+				"molecules"
+			],
+			[
+				"text-dec",
+				"text-decoration-color"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"latln",
+				"latlngAttribute"
+			],
+			[
+				"latl",
+				"latlngAttribute〔variable〕"
+			],
+			[
+				"transt",
+				"transition"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"region",
+				"regionKeys"
+			],
+			[
+				"lea",
+				"leagueId〔argument〕"
+			],
+			[
+				"gamei",
+				"gameIds〔argument〕"
+			],
+			[
+				"update",
+				"updatedGameIds〔variable〕"
+			],
+			[
+				"upd",
+				"updatedGameIds〔variable〕"
+			],
+			[
+				"leagu",
+				"leagueId〔variable〕"
+			],
+			[
+				"cre",
+				"createEmptyArray〔function〕"
+			],
+			[
+				"Hoe",
+				"HomeTeam"
+			],
+			[
+				"cal",
+				"calculatedArrays"
+			],
+			[
+				"seri",
+				"serieId〔variable〕"
+			],
+			[
+				"array",
+				"arrayKeys"
+			],
+			[
+				"Hom",
+				"HomeTeam"
+			],
+			[
+				"home",
+				"homeSetsWon〔variable〕"
+			],
+			[
+				"result",
+				"resultSplit"
+			],
+			[
+				"resul",
+				"resultSplit"
+			],
+			[
+				"favor",
+				"favorite"
+			],
+			[
+				"favori",
+				"favorites〔variable〕"
+			],
+			[
+				"pro",
+				"promises"
+			],
+			[
+				"favo",
+				"favorite"
+			],
+			[
+				"fav",
+				"favoriteEntry〔variable〕"
+			],
+			[
+				"lock",
+				"lockedUntil"
+			],
+			[
+				"api",
+				"apiRequests"
+			],
+			[
+				"url",
+				"urlSplitted"
+			],
+			[
+				"in",
+				"inputSeries"
+			],
+			[
+				"input",
+				"inputSeries"
+			],
+			[
+				"leagueProm",
+				"leaguePromises〔variable〕"
+			],
+			[
+				"scrapeArray",
+				"scrapeArrayFromRow〔function〕"
+			],
+			[
+				"sport",
+				"sportadminScraper〔variable〕"
+			],
+			[
+				"arra",
+				"arrayUrl"
+			],
+			[
+				"Resul",
+				"ResultReliability"
+			],
+			[
+				"jwt",
+				"jwtPayload〔argument〕"
+			],
+			[
+				"fina",
+				"finalResultSection〔variable〕"
+			],
+			[
+				"winsto",
+				"winston.silly"
+			],
+			[
+				"winst",
+				"winston.silly"
+			],
+			[
+				"Result",
+				"Result"
+			],
+			[
+				"p",
+				"Points〔variable〕"
+			],
+			[
+				"Points",
+				"PointsOne〔variable〕"
+			],
+			[
+				"points",
+				"PointsThree〔variable〕"
+			],
+			[
+				"repla",
+				"replaceAll〔function〕"
+			],
+			[
+				"load",
+				"loadPageParams〔variable〕"
+			],
+			[
+				"serili",
+				"serieLis〔variable〕"
+			],
+			[
+				"poten",
+				"potentialTitle〔variable〕"
+			],
+			[
+				"pote",
+				"potentialTitle〔variable〕"
+			],
+			[
+				"tableR",
+				"tableRows〔variable〕"
+			],
+			[
+				"send",
+				"sendStatus"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"man",
+				"mainMenu"
+			],
+			[
+				"mainM",
+				"mainMenuItems〔variable〕"
+			],
+			[
+				"open",
+				"openGraphImage"
+			],
+			[
+				"show",
+				"showBackBtn"
+			],
+			[
+				"player",
+				"player2"
+			],
+			[
+				"LatLng",
+				"LatLngBounds"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"Geo",
+				"GeocoderStatus"
+			],
+			[
+				"sinle",
+				"singleMarker"
+			],
+			[
+				"location",
+				"locationAttribute"
+			],
+			[
+				"loca",
+				"locationAttribute"
+			],
+			[
+				"option",
+				"optionElement〔variable〕"
+			],
+			[
+				"serie",
+				"seriesInput"
+			],
+			[
+				"Exter",
+				"ExternalId"
+			],
+			[
+				"Re",
+				"Reliability"
+			],
+			[
+				"acc",
+				"account〔variable〕"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"league",
+				"leagueData〔variable〕"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"date",
+				"dateFromShortString"
+			],
+			[
+				"fir",
+				"firstTable〔variable〕"
+			],
+			[
+				"montsh",
+				"months〔variable〕"
+			],
+			[
+				"month",
+				"monthString"
+			],
+			[
+				"getArra",
+				"getArrayFromTableRow〔class〕"
+			],
+			[
+				"meta",
+				"metaSerie"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"spo",
+				"spotlightPromise"
+			],
+			[
+				"high",
+				"highlightedGames"
+			],
+			[
+				"highlig",
+				"highlightedGames"
+			],
+			[
+				"highs",
+				"highlights〔argument〕"
+			],
+			[
+				"highli",
+				"highlights"
+			],
+			[
+				"getTopl",
+				"getTopLatestGamesFromLeagueId〔function〕"
+			],
+			[
+				"inputS",
+				"inputScore"
+			],
+			[
+				"inpu",
+				"inputGame"
+			],
+			[
+				"email",
+				"emailUpdatePromise"
+			],
+			[
+				"focu",
+				"focusout"
+			],
+			[
+				"user",
+				"userNameField"
+			],
+			[
+				"pass",
+				"passwordIsValid"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"new",
+				"newInput〔variable〕"
+			],
+			[
+				"prev",
+				"prevAll"
+			],
+			[
+				"first",
+				"firstUnplayedGame"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"hash",
+				"hashSync"
+			],
+			[
+				"User",
+				"UserInputtedResult"
+			],
+			[
+				"hi",
+				"highestReliability"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mainm",
+				"mainMenuItems"
+			],
+			[
+				"leag",
+				"leagues〔argument〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"de",
+				"description"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/pages/over-mij.nunjucks",
+			"settings":
+			{
+				"buffer_size": 292,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/components/_projects.nunjucks",
+			"settings":
+			{
+				"buffer_size": 3161,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/components/_hero-block.nunjucks",
+			"settings":
+			{
+				"buffer_size": 635,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/components/_navigation.nunjucks",
+			"settings":
+			{
+				"buffer_size": 941,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "git push",
+		"selected_items":
+		[
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git psu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"git change b",
+				"Git: Change Branch"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git ch",
+				"Git: Change Branch"
+			],
+			[
+				"change ",
+				"Git: Change Branch"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"media",
+				"Snippet: @media"
+			],
+			[
+				"syntax html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"shtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"gti add",
+				"Git: Add..."
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax ",
+				"Set Syntax: HTML"
+			],
+			[
+				"html pre",
+				"HTMLPrettify"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"preferences",
+				"Preferences: Settings"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"preferences ",
+				"Preferences: Settings"
+			],
+			[
+				"gti com",
+				"Git: Commit"
+			],
+			[
+				"set syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"gitpush",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"set syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"gita dd",
+				"Git: Add..."
+			],
+			[
+				"package control dep",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set html s",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"sublimelinter cac",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"set syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"key bindin",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"user ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"shortc",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browser",
+				"SublimeLinter: Don’t Show Errors on Save"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git com\t",
+				"Git: Commit"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
+			[
+				"install pc",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"pacakge control",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"git checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"git psh",
+				"Git: Push Current Branch"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package control remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter settings",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"subllimi",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ocm",
+				"Git: Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"git add.",
+				"Git: Add..."
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"all errors",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitp ush",
+				"Git: Push Current Branch"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"git push cur",
+				"Git: Push Current Branch"
+			],
+			[
+				"add ",
+				"Git: Add..."
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"key bind",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"git reser",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git p",
+				"Git: Push Current Branch"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"git \t",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"grunt ",
+				"Grunt"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"html p",
+				"HTMLPrettify"
+			],
+			[
+				"git comm\t",
+				"Git: Commit"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"gits tatus",
+				"Git: Status"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"gitgu",
+				"Git: Graph Current File"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 703.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/pages",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/components",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/molecules",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/organisms",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/docs"
+	],
+	"file_history":
+	[
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/.gitignore",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/docs/over-mij.html",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/pages/over-mij.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/components/_contact.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/components/_projects.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/atoms/_heading.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/globals/_variables.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/components/_header.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/components/_person.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/layout.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/docs/index.html",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/components/_navigation.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/pages/index.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/components/_hero-block.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/docs/design/css/brownfox.css",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/package.json",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/package-lock.json",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/Gulpfile.js",
+		"/C/Projects/Freelance/Advox/package.json",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/organisms/_hero-block.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/molecules/_navigation.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/vendor/bootstrap/_navbar.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/pages/projects.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/molecules/_quick-links.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/vendor/bootstrap/_card.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/vendor/bootstrap/_variables.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/molecules/_molecules.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/organisms/_organisms.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/docs/contact.html",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/pages/about.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/pages/contact.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/img/logo-thebrownfox.svg",
+		"/C/Users/stefc/Google Drive/The brown fox/Fixit Volley/Passwords.txt",
+		"/C/Users/stefc/AppData/Local/Temp/fz3temp-2/UmbracoTraceLog.sharedwin007.txt",
+		"/C/Projects/Freelance/Website - thebrownfox/thebrownfox_signature.html",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/molecules/_person.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/molecules/_post-author.scss",
+		"/C/Users/stefc/Google Drive/desktop.ini",
+		"/C/Projects/Freelance/Website - Attorno/src/passwords",
+		"/C/Projects/Freelance/Website - Attorno/src/index.html",
+		"/C/Projects/Freelance/Website - Attorno/src/faq.html",
+		"/C/Projects/Freelance/Website - Attorno/src/media.html",
+		"/C/Projects/Freelance/Website - Attorno/src/404.html",
+		"/C/Projects/Freelance/Website - Fixit/deploy v7.2.6/Views/LayoutDefault.cshtml",
+		"/C/Projects/Freelance/Website - Fixit/deploy v7.2.6/Views/LayoutHome.cshtml",
+		"/C/Projects/Freelance/Website - Fixit/deploy v7.2.6/Views/Layout.cshtml",
+		"/C/Users/stefc/Desktop/Sidewalk_signature.html",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/globals/_grid-extension.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/molecules/_card.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/js/app/components/lube.dom.js",
+		"/C/Projects/Freelance/Merko Nv/src/.gitignore",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/atoms/_anchor.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/vendor/bootstrap/mixins/_cards.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/atoms/_atoms.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/atoms/_section.scss",
+		"/C/Users/stefc/AppData/Roaming/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/.nojekyll",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/components/_footer.nunjucks",
+		"/C/Projects/Freelance/Website - ETF/app/pages/index.nunjucks",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/app/templates/component",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/scss/brownfox.scss",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/js/app/modules/lube.googlemaps.js",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/icons/browserconfig.xml",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/design/fonts/fontawesome/fontawesome-webfont.svg",
+		"/C/Projects/Freelance/Website - ETF/Gulpfile.js",
+		"/C/Projects/Freelance/Website - ETF/package.json",
+		"/C/Projects/Freelance/Website - thebrownfox/src/thebrownfox-website/LICENSE",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/CNAME",
+		"/D/Users/Stef/Documents/My Games/Watch_Dogs 2/WD2_GamerProfile.xml",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/README.md",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_layouts/page.html",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_site/2017/05/09/atomic-design-applied.html",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_posts/2017-05-09-atomic-design-applied.markdown",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/globals/_variables.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/molecules/_navigation.scss",
+		"//192.168.0.200/data/My Save for a long time.Stuff/scripts/sortyLog",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_layouts/post.html",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/about.md",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_layouts/about.html",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/molecules/_molecules.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/organisms/_post.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_config.yml",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_posts/2017-05-01-welcome-to-jekyll.markdown",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/molecules/_page-header.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_site/index.html",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/molecules/_page-footer.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/atoms/_lineno.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/molecules/_highlighter.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/molecules/_code-highlighter.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/atoms/_atoms.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/js/app/lube.strapon.js",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_includes/head.html",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/index.md",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/vendor/bootstrap/_reboot.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/vendor/bootstrap/_type.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/organisms/_organisms.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_includes/foot.html",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_site/design/js/app/lube.strapon.js",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/Gulpfile.js",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/globals/_globals.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/vendor/bootstrap/_variables.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/atoms/_body.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/brownfox-blog.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/browfox-blog.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/vendor/fontawesome/_font-awesome.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/vendor/fontawesome/_variables.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/globals/_grid-extension.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/globals/_fonts.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/design/scss/spoor-main.scss",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/package.json",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_layouts/default.html",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/_site/assets/main.css",
+		"/C/tools/DevKit2/config.yml",
+		"/C/Projects/Freelance/Blog - thebrownfox/src/thebrownfox-blog/Gemfile",
+		"/C/Projects/Freelance/Website - tspoor/app/templates/layout.nunjucks",
+		"/C/Projects/Freelance/Website - tspoor/app/pages/index.nunjucks",
+		"/C/Projects/Freelance/Website - tspoor/design/scss/atoms/_google-maps.scss",
+		"/C/Projects/Freelance/Website - tspoor/design/scss/globals/_variables.scss",
+		"/C/Projects/Freelance/Website - tspoor/design/scss/atoms/_atoms.scss",
+		"/C/Projects/Freelance/Website - tspoor/design/scss/atoms/_types.scss",
+		"/C/Projects/Freelance/Website - tspoor/design/scss/vendor/bootstrap/_type.scss",
+		"/C/Projects/Freelance/Website - tspoor/design/js/app/modules/lube.googlemaps.js",
+		"/C/Projects/Freelance/Website - tspoor/app/pages/contact.nunjucks",
+		"/C/Projects/Freelance/Website - tspoor/app/templates/partials/contact-block.nunjucks",
+		"/C/Projects/Freelance/Website - tspoor/app/templates/partials/footer.nunjucks",
+		"/C/Projects/Freelance/Website - tspoor/app/contact.html",
+		"/C/Projects/Freelance/Website - tspoor/design/scss/molecules/_footer.scss",
+		"/C/Projects/Freelance/Website - tspoor/design/scss/atoms/_buttons.scss"
+	],
+	"find":
+	{
+		"height": 86.0
+	},
+	"find_in_files":
+	{
+		"height": 225.0,
+		"where_history":
+		[
+			"*.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col-lg-4",
+			"col-md-12",
+			"col-sm-4\"",
+			";\n",
+			"1rem",
+			"<h3>",
+			"h2",
+			"10px",
+			"/>                    ",
+			"breakpoint",
+			"media",
+			"media-up",
+			"ackground-color",
+			"{}}}",
+			"rgba(",
+			"10rem",
+			"nav",
+			"<li class=\"nav-item\">",
+			"post-author",
+			"46.21.173.243",
+			"aNDBV26pv)w:#_J_",
+			"http",
+			"www",
+			"#259847",
+			"bin/",
+			"/dist/",
+			"png",
+			"sm-3",
+			" @include media",
+			"Projects",
+			"attorno.be",
+			"attorno",
+			"<div class=\"card card-image-effect\">\n                <div class=\"card-img\">\n                    <img src=\"design/img/projects/attorno.png\" />\n                </div>\n                <h2 class=\"card-title\">IPBuilding</h2>\n                <div class=\"card-text\">\n                </div>\n            </div>",
+			"style=\"background-image: url('design/img/projects/attorno.png');\"",
+			"card-title",
+			"background",
+			"http://placehold.it/300/ff69b4",
+			"/300",
+			"design",
+			"about",
+			"About",
+			"/design",
+			"dist",
+			"img",
+			"fonts",
+			"img",
+			"{{ site.baseurl }}",
+			"blog",
+			"res",
+			"resolution",
+			"sass",
+			"Sass",
+			"sass",
+			"Sass",
+			"linenos",
+			"lineos",
+			"baseurl",
+			"design",
+			"navbarSupportedContent",
+			"h3",
+			"font",
+			"spoor",
+			"&middot;",
+			"Welcome to Jekyll!",
+			"h1",
+			"masthead",
+			"icon-github",
+			"zoomLevel",
+			"initSingleMarker",
+			"card\"",
+			"card",
+			"md",
+			"15px",
+			"blue",
+			"contact@hetspoor.be",
+			"0",
+			"md",
+			"@include media",
+			"@media",
+			"{% include \"partials/intro-block.nunjucks\" %}",
+			"29",
+			"$etf-blue",
+			"ETF",
+			"anton",
+			"Anton",
+			"\"",
+			"(\"",
+			"/Website%20-%20ETF/app/",
+			"/Website%20-%20ETF/",
+			"/Website%20-%20ETF",
+			"fixmeTop",
+			"$('.fixme')",
+			"Dom",
+			"2rem",
+			"div",
+			"class=\"\" ",
+			"d-block",
+			"carouselExampleIndicators",
+			"300",
+			"./design/js/lib/bootstrap",
+			"carousel.js",
+			"carousel",
+			"...",
+			"Point",
+			"formatedText",
+			"infobox",
+			"initSingleMarker",
+			"2rem",
+			"uglify",
+			"toggleElement",
+			"container",
+			"parent",
+			"navbar-toggle collapsed",
+			"\n    </div>",
+			"visible-xs",
+			"md",
+			"<i class=\"fa fa-star\"></i>",
+			"col-md-2",
+			"1px",
+			"active",
+			"\"hotel",
+			"Hotel",
+			"hotel",
+			"col-md-6 col-lg-4 mb-2 mb-lg-0 mb-xl-0\"",
+			"mb-1",
+			"spacers",
+			"spacing",
+			"col-md-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$spoor-blue",
+			"$hotpink",
+			"'",
+			"\"$1\", Text = \"$1\"",
+			"\"{1}\", Text = \"{1}\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/pages/over-mij.nunjucks",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 292,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/templates/components/_projects.nunjucks",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1678,
+								1678
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/templates/components/_hero-block.nunjucks",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/templates/components/_navigation.nunjucks",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								781,
+								781
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 195.0
+	},
+	"pinned_build_system": "",
+	"project": "thebrownfox-website.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"nav",
+				"app\\templates\\components\\_navigation.nunjucks"
+			],
+			[
+				"hero",
+				"app\\templates\\components\\_hero-block.nunjucks"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"project",
+				"app\\templates\\components\\_projects.nunjucks"
+			],
+			[
+				"overmij",
+				"app\\pages\\over-mij.nunjucks"
+			],
+			[
+				"over-mij",
+				"docs\\over-mij.html"
+			],
+			[
+				"layou",
+				"app\\templates\\layout.nunjucks"
+			],
+			[
+				"inex",
+				"app\\pages\\index.nunjucks"
+			],
+			[
+				"projects",
+				"app\\templates\\components\\_projects.nunjucks"
+			],
+			[
+				"css",
+				"docs\\design\\css\\brownfox.css"
+			],
+			[
+				"over",
+				"app\\pages\\over-mij.nunjucks"
+			],
+			[
+				"vari",
+				"design\\scss\\globals\\_variables.scss"
+			],
+			[
+				"heading",
+				"design\\scss\\atoms\\_heading.scss"
+			],
+			[
+				"navi",
+				"app\\templates\\components\\_navigation.nunjucks"
+			],
+			[
+				"header",
+				"app\\templates\\components\\_header.nunjucks"
+			],
+			[
+				"contact",
+				"app\\templates\\components\\_contact.nunjucks"
+			],
+			[
+				"person",
+				"app\\templates\\components\\_person.nunjucks"
+			],
+			[
+				"navigati",
+				"app\\templates\\components\\_navigation.nunjucks"
+			],
+			[
+				"gulp",
+				"Gulpfile.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"hero-block",
+				"design\\scss\\organisms\\_hero-block.scss"
+			],
+			[
+				"navigation",
+				"design\\scss\\molecules\\_navigation.scss"
+			],
+			[
+				"variables",
+				"design\\scss\\vendor\\bootstrap\\_variables.scss"
+			],
+			[
+				"var",
+				"design\\scss\\globals\\_variables.scss"
+			],
+			[
+				"mole",
+				"design\\scss\\molecules\\_molecules.scss"
+			],
+			[
+				"navbar.scss",
+				"design\\scss\\vendor\\bootstrap\\_navbar.scss"
+			],
+			[
+				"_navigation",
+				"app\\templates\\components\\_navigation.nunjucks"
+			],
+			[
+				"navbar",
+				"design\\scss\\vendor\\bootstrap\\_navbar.scss"
+			],
+			[
+				"va",
+				"design\\scss\\globals\\_variables.scss"
+			],
+			[
+				"or",
+				"design\\scss\\organisms\\_organisms.scss"
+			],
+			[
+				"index",
+				"app\\pages\\index.nunjucks"
+			],
+			[
+				"layout",
+				"app\\templates\\layout.nunjucks"
+			],
+			[
+				"inde",
+				"app\\pages\\index.nunjucks"
+			],
+			[
+				"_conat",
+				"app\\templates\\components\\_contact.nunjucks"
+			],
+			[
+				"lay",
+				"app\\templates\\layout.nunjucks"
+			],
+			[
+				"dom",
+				"design\\js\\app\\components\\lube.dom.js"
+			],
+			[
+				"card",
+				"design\\scss\\molecules\\_card.scss"
+			],
+			[
+				"navig",
+				"app\\templates\\components\\_navigation.nunjucks"
+			],
+			[
+				"atoms",
+				"design\\scss\\atoms\\_atoms.scss"
+			],
+			[
+				"at",
+				"design\\scss\\atoms\\_atoms.scss"
+			],
+			[
+				"grid",
+				"design\\scss\\globals\\_grid-extension.scss"
+			],
+			[
+				"card.",
+				"design\\scss\\vendor\\bootstrap\\_card.scss"
+			],
+			[
+				"index.html",
+				"docs\\index.html"
+			],
+			[
+				"atomic",
+				"_posts\\2017-05-09-atomic-design-applied.markdown"
+			],
+			[
+				"atom",
+				"_site\\2017\\05\\09\\atomic-design-applied.html"
+			],
+			[
+				"variab",
+				"design\\scss\\globals\\_variables.scss"
+			],
+			[
+				"about",
+				"about.md"
+			],
+			[
+				"post.html",
+				"_layouts\\post.html"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"post",
+				"design\\scss\\organisms\\_post.scss"
+			],
+			[
+				"post.scss",
+				"design\\scss\\organisms\\_post.scss"
+			],
+			[
+				"highli",
+				"design\\scss\\molecules\\_highlighter.scss"
+			],
+			[
+				"lineon",
+				"design\\scss\\atoms\\_lineno.scss"
+			],
+			[
+				"linen",
+				"design\\scss\\atoms\\_lineno.scss"
+			],
+			[
+				"line",
+				"design\\scss\\atoms\\_lineno.scss"
+			],
+			[
+				"lineno",
+				"design\\scss\\atoms\\_lineno.scss"
+			],
+			[
+				"reboot.scss",
+				"design\\scss\\vendor\\bootstrap\\_reboot.scss"
+			],
+			[
+				"high",
+				"design\\scss\\molecules\\_code-highlighter.scss"
+			],
+			[
+				"vara",
+				"design\\scss\\globals\\_variables.scss"
+			],
+			[
+				"type.scss",
+				"design\\scss\\vendor\\bootstrap\\_type.scss"
+			],
+			[
+				"org",
+				"design\\scss\\organisms\\_organisms.scss"
+			],
+			[
+				"page",
+				"_layouts\\page.html"
+			],
+			[
+				"foot",
+				"_includes\\foot.html"
+			],
+			[
+				"head",
+				"_includes\\head.html"
+			],
+			[
+				"body",
+				"design\\scss\\atoms\\_body.scss"
+			],
+			[
+				"varaib",
+				"design\\scss\\vendor\\bootstrap\\_variables.scss"
+			],
+			[
+				"global",
+				"design\\scss\\globals\\_globals.scss"
+			],
+			[
+				"font-awesom",
+				"design\\scss\\vendor\\fontawesome\\_font-awesome.scss"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
+				"type",
+				"design\\scss\\vendor\\bootstrap\\_type.scss"
+			],
+			[
+				"contact.html",
+				"app\\contact.html"
+			],
+			[
+				"google",
+				"design\\js\\app\\modules\\lube.googlemaps.js"
+			],
+			[
+				"goo",
+				"design\\scss\\atoms\\_google-maps.scss"
+			],
+			[
+				"googlem",
+				"design\\js\\app\\modules\\lube.googlemaps.js"
+			],
+			[
+				"footer.",
+				"app\\templates\\partials\\footer.nunjucks"
+			],
+			[
+				"footer",
+				"design\\scss\\molecules\\_footer.scss"
+			],
+			[
+				"card.scss",
+				"design\\scss\\molecules\\_card.scss"
+			],
+			[
+				"buttons",
+				"design\\scss\\atoms\\_buttons.scss"
+			],
+			[
+				"footer-link",
+				"design\\scss\\molecules\\_footer-link-list.scss"
+			],
+			[
+				"footer.nu",
+				"app\\templates\\partials\\footer.nunjucks"
+			],
+			[
+				"header.scss",
+				"design\\scss\\molecules\\_header.scss"
+			],
+			[
+				"logo",
+				"design\\scss\\molecules\\_logo.scss"
+			],
+			[
+				"n",
+				"design\\scss\\molecules\\_navigation.scss"
+			],
+			[
+				"into",
+				"app\\templates\\partials\\intro-block.nunjucks"
+			],
+			[
+				"dom.js",
+				"design\\js\\app\\components\\lube.dom.js"
+			],
+			[
+				"grid.scss",
+				"design\\scss\\globals\\_grid-extension.scss"
+			],
+			[
+				"navigation.scss",
+				"design\\scss\\molecules\\_navigation.scss"
+			],
+			[
+				"header.",
+				"app\\templates\\partials\\header.nunjucks"
+			],
+			[
+				"logo.scss",
+				"design\\scss\\molecules\\_logo.scss"
+			],
+			[
+				"int",
+				"app\\templates\\partials\\intro-block.nunjucks"
+			],
+			[
+				"index.",
+				"app\\pages\\index.nunjucks"
+			],
+			[
+				"logo.sss",
+				"design\\scss\\molecules\\_logo.scss"
+			],
+			[
+				"mol",
+				"design\\scss\\molecules\\_molecules.scss"
+			],
+			[
+				"navigation.",
+				"design\\scss\\molecules\\_navigation.scss"
+			],
+			[
+				"navbar-t",
+				"design\\scss\\atoms\\_navbar-toggle.scss"
+			],
+			[
+				"_navbar-toggle",
+				"design\\scss\\atoms\\_navbar-toggle.scss"
+			],
+			[
+				"layout.",
+				"app\\templates\\layout.nunjucks"
+			],
+			[
+				"googl",
+				"design\\scss\\atoms\\_google-maps.scss"
+			],
+			[
+				"intro",
+				"app\\templates\\partials\\intro-block.nunjucks"
+			],
+			[
+				"s",
+				"app\\templates\\partials\\sub-page-logo.nunjucks"
+			],
+			[
+				"lube.dom.js",
+				"design\\js\\app\\components\\lube.dom.js"
+			],
+			[
+				"strapon",
+				"design\\js\\app\\lube.strapon.js"
+			],
+			[
+				"gulpfil",
+				"Gulpfile.js"
+			],
+			[
+				"font",
+				"design\\scss\\globals\\_fonts.scss"
+			],
+			[
+				"twee",
+				"app\\templates\\partials\\tweets-card.nunjucks"
+			],
+			[
+				"lib.js",
+				"design\\js\\dist\\lib.js"
+			],
+			[
+				"toggle",
+				"design\\js\\app\\modules\\lube.toggle.js"
+			],
+			[
+				"bootstrap",
+				"design\\scss\\vendor\\_bootstrap.scss"
+			],
+			[
+				"image-car",
+				"app\\templates\\partials\\image-card.nunjucks"
+			],
+			[
+				"maps",
+				"design\\scss\\atoms\\_google-maps.scss"
+			],
+			[
+				"sub",
+				"app\\templates\\partials\\sub-page-logo.nunjucks"
+			],
+			[
+				"toggle.js",
+				"design\\js\\app\\modules\\lube.toggle.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"",
+				"design\\js\\app\\modules\\lube.toggle.js"
+			],
+			[
+				"intro-bloc",
+				"design\\scss\\molecules\\_intro-block.scss"
+			],
+			[
+				"intro-",
+				"app\\templates\\partials\\intro-block.nunjucks"
+			],
+			[
+				"varia",
+				"design\\scss\\globals\\_variables.scss"
+			],
+			[
+				"social",
+				"design\\scss\\molecules\\_social-media-list.scss"
+			],
+			[
+				"cale",
+				"app\\templates\\partials\\calendar-card.nunjucks"
+			],
+			[
+				"event",
+				"design\\scss\\molecules\\_events-list.scss"
+			],
+			[
+				"etf.c",
+				"design\\css\\etf-main.css"
+			],
+			[
+				"events",
+				"design\\scss\\molecules\\_events-list.scss"
+			],
+			[
+				"button",
+				"design\\scss\\atoms\\_buttons.scss"
+			],
+			[
+				"ag",
+				"app\\templates\\partials\\agenda-block.nunjucks"
+			],
+			[
+				"agenda",
+				"app\\pages\\agenda.nunjucks"
+			],
+			[
+				"na",
+				"design\\scss\\molecules\\_navigation.scss"
+			],
+			[
+				"spacing",
+				"design\\scss\\vendor\\bootstrap\\utilities\\_spacing.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Projects\\Freelance\\Project S\\Source\\Project S\\ProjectS.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
