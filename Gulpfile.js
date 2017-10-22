@@ -39,8 +39,8 @@ gulp.task('copy-dependencies', function () {
         .pipe(gulp.dest(path.join(DESIGN_DIR, 'js/lib/jquery')));
 
     gulp.src(['./node_modules/bootstrap/js/dist/util.js',
-            './node_modules/bootstrap/js/dist/collapse.js'
-        ])
+        './node_modules/bootstrap/js/dist/collapse.js'
+    ])
         .pipe(gulp.dest(path.join(DESIGN_DIR, 'js/lib/bootstrap')))
 
     gulp.src(['./node_modules/bootstrap/scss/**/_*.scss'])
@@ -68,20 +68,20 @@ gulp.task('stylesheets', function () {
 
 gulp.task('javascript', function () {
     gulp.src([
-            path.join(DESIGN_DIR, 'js/lib/jquery/*.js'),
-            path.join(DESIGN_DIR, 'js/lib/bootstrap/**/*.js')
-        ])
+        path.join(DESIGN_DIR, 'js/lib/jquery/*.js'),
+        path.join(DESIGN_DIR, 'js/lib/bootstrap/**/*.js')
+    ])
         .pipe(concat('lib.js'))
         .pipe(babel())
         .pipe(uglify())
         .pipe(gulp.dest(path.join(DIST_DIR, 'design/js/')));
 
     gulp.src([
-            path.join(DESIGN_DIR, 'js/app/components/*.js'),
-            path.join(DESIGN_DIR, 'js/app/functions/*.js'),
-            path.join(DESIGN_DIR, 'js/app/modules/*.js'),
-            path.join(DESIGN_DIR, 'js/app/lube.strapon.js')
-        ])
+        path.join(DESIGN_DIR, 'js/app/components/*.js'),
+        path.join(DESIGN_DIR, 'js/app/functions/*.js'),
+        path.join(DESIGN_DIR, 'js/app/modules/*.js'),
+        path.join(DESIGN_DIR, 'js/app/lube.strapon.js')
+    ])
         .pipe(concat('applib.js'))
         .pipe(babel())
         .pipe(uglify())
@@ -116,12 +116,12 @@ gulp.task('compile-nunjucks', function () {
 
 gulp.task('bundle-sw', () => {
     return wbBuild.generateSW({
-            globDirectory: './' + DIST_DIR + '/',
-            swDest: path.join(DIST_DIR, 'design/js/sw.js'),
-            globPatterns: ['**\/*.{html,js,css}'],
-            globIgnores: [],
-            templatedUrls: {},
-        })
+        globDirectory: './' + DIST_DIR + '/',
+        swDest: path.join(DIST_DIR, 'sw.js'),
+        globPatterns: ['**\/*.{html,js,css,svg,png,jpg}'],
+        globIgnores: [],
+        templatedUrls: {},
+    })
         .then(() => {
             console.log('Service worker generated.');
         })
@@ -143,7 +143,7 @@ gulp.on('err', function (err) {
 });
 
 //Watch task
-gulp.task('default', function () {
+gulp.task('default', ['serve-dist'], function () {
     gulp.watch(path.join(DESIGN_DIR, 'scss/**/*.scss'), ['stylesheets']);
     gulp.watch(path.join(DESIGN_DIR, 'js/**/*.js'), ['javascript']);
     gulp.watch(path.join(DEV_DIR, '**/*.+(html|nunjucks)'), ['compile-nunjucks']);

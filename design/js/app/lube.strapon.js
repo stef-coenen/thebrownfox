@@ -1,18 +1,13 @@
 /**
 * [window.Lube]
 *
-* @author       [Stef Coenen & Tim Vermaelen]
-* @date         [2016]
-* @link         [https://github.com/timver/LubeJs.git]
+* @author       [Stef Coenen]
+* @date         [2017]
 * @namespace    [Lube]
 * @requires     [jQuery]
 * @revision     [0.1]
 */
 
-/**
- * @param ($): jQuery
- * @param (ns): Namespace
- */
 window.Lube = (function ($, ns) {
 
     // 1. ECMA-262/5
@@ -21,7 +16,7 @@ window.Lube = (function ($, ns) {
     // 2. PRIVATE CONFIGURATION OVERRIDE
     var cfg = {};
 
-    // 3. LOAD COMPONENTS AND CLASSES
+    // 3. LOAD COMPONENT, CLASSES AND DATACOMPONENTS
     ns.components = function () {
         ns.Dom.init();
     };
@@ -33,13 +28,52 @@ window.Lube = (function ($, ns) {
         };
     };
 
+    ns.dataComponentInitializer = function () {
+        var dataComponents = $('[data-component]');
+        for (var i = 0; i < dataComponents.length; i++) {
+            var dataComponent = dataComponents.eq(i);
+            var dataAttr = dataComponent.data('component');
+            dataAttr = dataAttr.split('.');
+
+            if (dataAttr.length >= 2) {
+                var componentFunction = Dom[dataAttr[1]];
+                if (componentFunction) {
+                    new componentFunction(dataComponent);
+                }
+            }
+        }
+    }
+
     // 5. ONCE THE DOM IS READY
     $(function () {
         ns.components();
         ns.modules();
+        ns.dataComponentInitializer();
     });
 
-    // 6. GLOBALIZE NAMESPACE
+    // 6. Trigger along load event
+    $(window).on('load', function () {
+        $.ready.then(function () {
+            $(ns).trigger('load');
+        });
+    });
+
+    // 7. Register SW
+    if ('serviceWorker' in navigator) {
+        // Register a service worker hosted at the root of the
+        // site using the default scope.
+        navigator.serviceWorker.register('/sw.js').then(function (registration) {
+            console.log('Service worker registration succeeded:', registration);
+        }).catch(function (error) {
+            console.log('Service worker registration failed:', error);
+        });
+    } else {
+        console.log('Service workers are not supported.');
+    }
+
+    // 8. GLOBALIZE NAMESPACE
     return ns;
+
+
 
 }(window.jQuery, window.Lube || {}));

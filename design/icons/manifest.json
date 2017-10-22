@@ -1,5 +1,8 @@
 {
     "name": "The Brown Fox",
+    "short_name": "Brown Fox",
+    "start_url": "/index.html",
+    "display": "minimal-ui",
     "icons": [
         {
             "src": "design/icons/android-chrome-192x192.png",
@@ -13,6 +16,5 @@
         }
     ],
     "theme_color": "#f06322",
-    "background_color": "#f06322",
-    "display": "standalone"
+    "background_color": "#f06322"
 }
