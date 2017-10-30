@@ -1,15 +1,36 @@
 .eh-grid {
-    display: flex;
+  display: flex;
 }
 
-.gutterless {
-    &.row,
-    .row {
-        margin-left: 0;
-        margin-right: 0;
+.row {
+  &-gutterless {
+    & {
+      margin-left: 0;
+      margin-right: 0;
     }
     [class*="col-"] {
-        padding-left: 0;
-        padding-right: 0;
+      padding-left: 0;
+      padding-right: 0;
     }
+  }
+  &-narrow {
+    & {
+      margin-left: -0.1rem;
+      margin-right: -0.1rem;
+    }
+    [class*="col-"] {
+      padding-left: 0.1rem;
+      padding-right: 0.1rem;
+    }
+  }
+  &-narrow-vertical {
+    & {
+      margin-top: -0.1rem;
+      margin-bottom: -0.1rem;
+    }
+    [class*="col-"] {
+      padding-top: 0.1rem;
+      padding-bottom: 0.1rem;
+    }
+  }
 }

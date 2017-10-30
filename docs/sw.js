@@ -20,7 +20,7 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "design/css/brownfox.css",
-    "revision": "f77f33f06522f49829bb667618bc2926"
+    "revision": "1bf92d2f60a0a32a1fadac1f3bfae175"
   },
   {
     "url": "design/fonts/fontawesome/fontawesome-webfont.svg",
@@ -63,60 +63,12 @@ const fileManifest = [
     "revision": "2c5d620acf5037b76e1cd1489d42c54a"
   },
   {
-    "url": "design/img/logo/logo-thebrownfox-black copy.png",
-    "revision": "0ff5da2c674abed544c80c0e97b55f4d"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox-black copy.svg",
-    "revision": "1d4d8746f10de15cfdeabd3aa2d4c2b9"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox-black copy@0.5x.png",
-    "revision": "9e5139eb3317ddfb6ecd93eecdc593d2"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox-black.png",
-    "revision": "787efe19641a983323b43754d1b87e4f"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox-black.svg",
-    "revision": "d5a26da9e8c2c23efb2cf22ff4f5dcb9"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox-black@0.5x.png",
-    "revision": "d5ddeec153cfc3a638fa9d9540a2742a"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox-white.png",
-    "revision": "0ff5da2c674abed544c80c0e97b55f4d"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox-white.svg",
-    "revision": "1d4d8746f10de15cfdeabd3aa2d4c2b9"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox-white@0.5x.png",
-    "revision": "9e5139eb3317ddfb6ecd93eecdc593d2"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox.png",
-    "revision": "e950ad74db51faca8db0b1936d6a3f73"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox.svg",
-    "revision": "2c5d620acf5037b76e1cd1489d42c54a"
-  },
-  {
-    "url": "design/img/logo/logo-thebrownfox@0.5x.png",
-    "revision": "b16e3924f93fc477ee404e7e7bf747e3"
+    "url": "design/img/projects/agenda-tspoor.jpg",
+    "revision": "c69111e46ea453e2b763dca404938b93"
   },
   {
     "url": "design/img/projects/attorno.jpg",
     "revision": "a692b51a6e576f0b9f92d848171a3534"
-  },
-  {
-    "url": "design/img/projects/fixit-volley.be- (1).png",
-    "revision": "ba317ae666b85ad95d285cef30570b36"
   },
   {
     "url": "design/img/projects/fixit-volley.jpg",
@@ -131,12 +83,16 @@ const fileManifest = [
     "revision": "e03a54af1429be4f3622e829921bda7a"
   },
   {
+    "url": "design/img/projects/watnu-legal.jpg",
+    "revision": "f35612caedbd7299dd4e7d002536d8e8"
+  },
+  {
     "url": "design/img/stef.jpg",
     "revision": "75576d0f89d883f5be9940197925f043"
   },
   {
     "url": "design/js/applib.js",
-    "revision": "ac016b9e1aceea3c2531d29ed43fb3da"
+    "revision": "d355e1dd40245a0bc5779087d845debb"
   },
   {
     "url": "design/js/lib.js",
@@ -144,15 +100,15 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "388e3424c0867d6c7354c674c06a2570"
+    "revision": "f1862c2b6de991a3c50976f2ab61fcdd"
   },
   {
     "url": "over-mij.html",
-    "revision": "60a83cf0f5063abae6d322835210d80c"
+    "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
     "url": "projecten.html",
-    "revision": "9db44c5add97f17c60f423afff4d3a84"
+    "revision": "de23ae14601afbc3ef4ee7da34f1d351"
   }
 ];
 
