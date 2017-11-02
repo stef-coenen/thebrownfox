@@ -1,7 +1,7 @@
 <div class="hero-block">
     <div class="container">
         <nav class="navbar navbar-toggleable-md navbar-light">
-            <a href="/" class="navbar-brand" title="Home">
+            <a href="/" class="navbar-brand animation-fade-in animation-delay-4" title="Home">
                 <img src="design/img/logo-thebrownfox.svg" class="logo" />
                 <h1 class="title">The brown Fox</h1>
             </a>

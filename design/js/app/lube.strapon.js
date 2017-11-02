@@ -8,8 +8,7 @@
 * @revision     [0.1]
 */
 
-window.Lube = (function ($, ns) {
-
+window.Lube = (function($, ns) {
     // 1. ECMA-262/5
     'use strict';
 
@@ -17,18 +16,19 @@ window.Lube = (function ($, ns) {
     var cfg = {};
 
     // 3. LOAD COMPONENT, CLASSES AND DATACOMPONENTS
-    ns.components = function () {
+    ns.components = function() {
         ns.Dom.init();
+        ns.Animation.init();
     };
 
-    ns.modules = function () {
+    ns.modules = function() {
         return {
             //toggle: new ns.Toggle(),
             googlemaps: new ns.Googlemaps()
         };
     };
 
-    ns.dataComponentInitializer = function () {
+    ns.dataComponentInitializer = function() {
         var dataComponents = $('[data-component]');
         for (var i = 0; i < dataComponents.length; i++) {
             var dataComponent = dataComponents.eq(i);
@@ -36,24 +36,24 @@ window.Lube = (function ($, ns) {
             dataAttr = dataAttr.split('.');
 
             if (dataAttr.length >= 2) {
-                var componentFunction = Dom[dataAttr[1]];
+                var componentFunction = ns[dataAttr[1]];
                 if (componentFunction) {
                     new componentFunction(dataComponent);
                 }
             }
         }
-    }
+    };
 
     // 5. ONCE THE DOM IS READY
-    $(function () {
+    $(function() {
         ns.components();
         ns.modules();
         ns.dataComponentInitializer();
     });
 
     // 6. Trigger along load event
-    $(window).on('load', function () {
-        $.ready.then(function () {
+    $(window).on('load', function() {
+        $.ready.then(function() {
             $(ns).trigger('load');
         });
     });
@@ -62,18 +62,21 @@ window.Lube = (function ($, ns) {
     if ('serviceWorker' in navigator) {
         // Register a service worker hosted at the root of the
         // site using the default scope.
-        navigator.serviceWorker.register('/sw.js').then(function (registration) {
-            console.log('Service worker registration succeeded:', registration);
-        }).catch(function (error) {
-            console.log('Service worker registration failed:', error);
-        });
+        navigator.serviceWorker
+            .register('/sw.js')
+            .then(function(registration) {
+                console.log(
+                    'Service worker registration succeeded:',
+                    registration
+                );
+            })
+            .catch(function(error) {
+                console.log('Service worker registration failed:', error);
+            });
     } else {
         console.log('Service workers are not supported.');
     }
 
     // 8. GLOBALIZE NAMESPACE
     return ns;
-
-
-
-}(window.jQuery, window.Lube || {}));
+})(window.jQuery, window.Lube || {});
