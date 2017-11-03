@@ -2,14 +2,14 @@
     <div class="container">
         <nav class="navbar navbar-toggleable-md navbar-light">
             <a href="/" class="navbar-brand animation-fade-in animation-delay-4" title="Home">
-                <img src="design/img/logo-thebrownfox.svg" class="logo" />
+                <img src="design/img/logo-thebrownfox.svg" alt="brown fox (logo)" class="logo" />
                 <h1 class="title">The brown Fox</h1>
             </a>
         </nav>
         <div class="quick-links scramble">
             <a class="quick-link" href="/projecten.html">Projecten</a>
             <a class="quick-link" href="/over-mij.html">Over mij</a>
-            <a class="quick-link" href="https://blog.thebrownfox.be" target="_blank">Blog</a>
+            <a class="quick-link" href="https://blog.thebrownfox.be" target="_blank" rel="noopener">Blog</a>
         </div>
     </div>
 </div>
