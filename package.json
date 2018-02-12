@@ -1,9 +1,9 @@
 {
-    "name": "brownfox-website",
+    "name": "kinebeach-website",
     "version": "0.0.1",
-    "description": "brownfox-website",
+    "description": "kinebeach-website",
     "main": "index.html",
-    "repository": "https://github.com/stef-coenen/thebrownfox.git",
+    "repository": "https://github.com/stef-coenen/kinebeach.git",
     "dependencies": {
         "bootstrap": "^4.0.0-alpha.6",
         "gulp": "^3.9.1",
@@ -29,12 +29,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [
-        "Lube",
-        "Front-End",
-        "JavaScript",
-        "jQuery"
-    ],
+    "keywords": ["Lube", "Front-End", "JavaScript", "jQuery"],
     "author": "Stef Coenen",
     "license": ""
 }
