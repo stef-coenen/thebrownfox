@@ -56,11 +56,11 @@ const fileManifest = [
   },
   {
     "url": "design/img/logo-thebrownfox.png",
-    "revision": "e950ad74db51faca8db0b1936d6a3f73"
+    "revision": "0da9a86fb4ef39969f362dc3bdd075b8"
   },
   {
     "url": "design/img/logo-thebrownfox.svg",
-    "revision": "2c5d620acf5037b76e1cd1489d42c54a"
+    "revision": "05ac201710f3fc570cbb14ece9c19a22"
   },
   {
     "url": "design/img/projects/agenda-tspoor.jpg",
@@ -92,7 +92,7 @@ const fileManifest = [
   },
   {
     "url": "design/js/applib.js",
-    "revision": "a58b29d444ca4ccc1670d0f3d7c04f5d"
+    "revision": "1cb681e5ecc969086e91c569308f27fe"
   },
   {
     "url": "design/js/lib.js",
@@ -104,11 +104,11 @@ const fileManifest = [
   },
   {
     "url": "over-mij.html",
-    "revision": "d41d8cd98f00b204e9800998ecf8427e"
+    "revision": "bbf6243655b1ee8608534764808b75c0"
   },
   {
     "url": "projecten.html",
-    "revision": "eeba5d1f39e80950bb3e1f974a39b39c"
+    "revision": "2a6d533c2521311e5a94c87bc52c7717"
   }
 ];
 

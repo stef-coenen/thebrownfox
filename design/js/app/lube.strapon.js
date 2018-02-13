@@ -65,16 +65,14 @@ window.Lube = (function($, ns) {
         navigator.serviceWorker
             .register('/sw.js')
             .then(function(registration) {
-                console.log(
-                    'Service worker registration succeeded:',
-                    registration
-                );
+                console.info('Service worker registration succeeded:', registration);
+                registration.update();
             })
             .catch(function(error) {
-                console.log('Service worker registration failed:', error);
+                console.info('Service worker registration failed:', error);
             });
     } else {
-        console.log('Service workers are not supported.');
+        console.info('Service workers are not supported.');
     }
 
     // 8. GLOBALIZE NAMESPACE
