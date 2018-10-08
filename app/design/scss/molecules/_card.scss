@@ -21,8 +21,8 @@
             left: 0;
             right: 0;
             bottom: 0;
-            transform: scale(1.1);
-            transition: transform .2s;
+            transform: scale(1);
+            transition: transform 0.2s;
             &:after {
                 position: absolute;
                 top: 0;
@@ -31,19 +31,19 @@
                 bottom: 0;
                 display: block;
                 content: '';
-                background-color: rgba($white, .8);
+                background-color: rgba($white, 0.8);
                 opacity: 0;
-                transition: opacity .15s;
+                transition: opacity 0.15s;
             }
         }
         > *:not(.card-img) {
             opacity: 0;
-            transition: opacity .2s;
+            transition: opacity 0.2s;
             position: relative; // Force remaining above the background image that scales
         }
         &:hover {
             .card-img {
-                transform: scale(1);
+                transform: scale(1.1);
                 &:after {
                     opacity: 1;
                 }

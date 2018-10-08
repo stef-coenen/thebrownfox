@@ -1,4 +1,4 @@
-importScripts('workbox-sw.prod.v2.1.0.js');
+importScripts('workbox-sw.prod.v2.1.3.js');
 
 /**
  * DO NOT EDIT THE FILE MANIFEST ENTRY
@@ -20,7 +20,7 @@ importScripts('workbox-sw.prod.v2.1.0.js');
 const fileManifest = [
   {
     "url": "design/css/brownfox.css",
-    "revision": "f4a14b388c187661228acac4d0c01382"
+    "revision": "a33add4694cc08c75455be32b336422c"
   },
   {
     "url": "design/fonts/fontawesome/fontawesome-webfont.svg",
@@ -55,12 +55,16 @@ const fileManifest = [
     "revision": "bf7c6ebd8870333ec625741e86423c29"
   },
   {
+    "url": "design/img/logo-thebrownfox-bg.svg",
+    "revision": "aa406a8512448923fe27a20ce255da16"
+  },
+  {
     "url": "design/img/logo-thebrownfox.png",
-    "revision": "0da9a86fb4ef39969f362dc3bdd075b8"
+    "revision": "e950ad74db51faca8db0b1936d6a3f73"
   },
   {
     "url": "design/img/logo-thebrownfox.svg",
-    "revision": "05ac201710f3fc570cbb14ece9c19a22"
+    "revision": "2c5d620acf5037b76e1cd1489d42c54a"
   },
   {
     "url": "design/img/projects/agenda-tspoor.jpg",
@@ -68,11 +72,23 @@ const fileManifest = [
   },
   {
     "url": "design/img/projects/attorno.jpg",
-    "revision": "a692b51a6e576f0b9f92d848171a3534"
+    "revision": "02cd6d84006f6e70236d2588ae1ca90d"
+  },
+  {
+    "url": "design/img/projects/delegation.jpg",
+    "revision": "e5de0cc36db8eba2826852d24097c491"
   },
   {
     "url": "design/img/projects/fixit-volley.jpg",
     "revision": "c23d876027c4741ba82c1f2f279cecb6"
+  },
+  {
+    "url": "design/img/projects/khc-dragons.jpg",
+    "revision": "af6b55d25dda47af774f5a443091fe65"
+  },
+  {
+    "url": "design/img/projects/knap-geknipt.jpg",
+    "revision": "cac7be82f3d2b2d7058c1dc8ebf53fc8"
   },
   {
     "url": "design/img/projects/sportpunten.jpg",
@@ -88,7 +104,7 @@ const fileManifest = [
   },
   {
     "url": "design/img/stef.jpg",
-    "revision": "75576d0f89d883f5be9940197925f043"
+    "revision": "e654c3bd428699966e9968e1369cefaa"
   },
   {
     "url": "design/js/applib.js",
@@ -100,15 +116,19 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "579497cb31cdee9bec71130dd44a69fc"
+    "revision": "859fbb6bc8008aa73ad6f45995815622"
   },
   {
     "url": "over-mij.html",
-    "revision": "bbf6243655b1ee8608534764808b75c0"
+    "revision": "1de5a77259d3f1b4a0c7daac4654f92e"
   },
   {
     "url": "projecten.html",
-    "revision": "2a6d533c2521311e5a94c87bc52c7717"
+    "revision": "b2866245aa36c1b4048e762a20efec6b"
+  },
+  {
+    "url": "workbox-sw.prod.v2.1.0.js",
+    "revision": "e5f207838d7fd9c81835d5705a73cfa2"
   }
 ];
 

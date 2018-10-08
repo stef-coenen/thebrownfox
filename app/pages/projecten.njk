@@ -1,0 +1,10 @@
+<!-- index.njk -->
+{% extends "layout.njk" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    {% include "../templates/components/_header.njk" %}
+    {% include "../templates/components/_projects.njk" %}
+    {% include "components/_footer.njk" %}
+{% endblock %}

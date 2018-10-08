@@ -15,22 +15,22 @@
     }
     &-narrow {
         & {
-            margin-left: -0.1rem;
-            margin-right: -0.1rem;
+            margin-left: -0.3rem;
+            margin-right: -0.3rem;
         }
         [class*='col-'] {
-            padding-left: 0.1rem;
-            padding-right: 0.1rem;
+            padding-left: 0.3rem;
+            padding-right: 0.3rem;
         }
     }
     &-narrow-vertical {
         & {
-            margin-top: -0.1rem;
-            margin-bottom: -0.1rem;
+            margin-top: -0.3rem;
+            margin-bottom: -0.3rem;
         }
         [class*='col-'] {
-            padding-top: 0.1rem;
-            padding-bottom: 0.1rem;
+            padding-top: 0.3rem;
+            padding-bottom: 0.3rem;
         }
     }
 }
