@@ -20,7 +20,7 @@ importScripts('workbox-sw.prod.v2.1.3.js');
 const fileManifest = [
   {
     "url": "design/css/brownfox.css",
-    "revision": "a33add4694cc08c75455be32b336422c"
+    "revision": "c8672adb61df90a68b9dee4612a290b8"
   },
   {
     "url": "design/fonts/fontawesome/fontawesome-webfont.svg",
@@ -116,11 +116,11 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "859fbb6bc8008aa73ad6f45995815622"
+    "revision": "8a056bdd59d4161f63d3c7418c162b8f"
   },
   {
     "url": "over-mij.html",
-    "revision": "1de5a77259d3f1b4a0c7daac4654f92e"
+    "revision": "ae700b5d1f9f99231e0e531420cec968"
   },
   {
     "url": "projecten.html",
