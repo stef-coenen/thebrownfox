@@ -113,7 +113,7 @@ self.__precacheManifest = [
   },
   {
     "url": "design/js/applib.js",
-    "revision": "05e5130adadab8fb348228a7f0168f6a"
+    "revision": "11e2b5c7a16e7742bb260806c07ca2d0"
   },
   {
     "url": "design/js/lib.js",
