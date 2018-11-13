@@ -1,10 +1,10 @@
 <!-- index.njk -->
 {% extends "layout.njk" %}
 
-{% block title %}Home{% endblock %}
+{% block title %}Over mij{% endblock %}
 
 {% block content %}
     {% include "../templates/components/_header.njk" %}
-    {% include "../templates/components/_projects.njk" %}
+    <main>{% include "../templates/components/_contact.njk" %}</main>
     {% include "components/_footer.njk" %}
 {% endblock %}
