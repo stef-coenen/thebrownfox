@@ -191,7 +191,7 @@ gulp.task('default', ['serve-dist'], () => {
     gulp.watch(path.join(DESIGN_DIR, 'js/lib/**/*.js'), ['javascript-libs', 'bundle-sw']);
     gulp.watch(path.join(DEV_DIR, '**/*.+(html|njk)'), ['compile-nunjucks', 'bundle-sw']);
 
-    gulp.watch(path.join(DESIGN_DIR, 'img/**/*'), ['copy-img']);
-    gulp.watch(path.join(DESIGN_DIR, 'favicons/**/*'), ['copy-icons']);
-    gulp.watch(path.join(DESIGN_DIR, 'fonts/**/*'), ['copy-fonts']);
+    gulp.watch(path.join(DESIGN_DIR, 'img/**/*'), ['copy-img', 'bundle-sw']);
+    gulp.watch(path.join(DESIGN_DIR, 'favicons/**/*'), ['copy-icons', 'bundle-sw']);
+    gulp.watch(path.join(DESIGN_DIR, 'fonts/**/*'), ['copy-fonts', 'bundle-sw']);
 });

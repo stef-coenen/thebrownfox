@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "about-me.html",
-    "revision": "19b89c565aec404784e3998e9e6a4ce5"
+    "revision": "5dce08e1f32544998b2be359d076a4b3"
   },
   {
     "url": "design/css/brownfox.css",
-    "revision": "b3358055632e5795d2271d8f8a3aa655"
+    "revision": "2e7a1672c15ea7057ed1b2c7b995a4b4"
   },
   {
     "url": "design/fonts/fontawesome/fontawesome-webfont.svg",
@@ -65,11 +65,11 @@ self.__precacheManifest = [
   },
   {
     "url": "design/img/logo-thebrownfox.png",
-    "revision": "e950ad74db51faca8db0b1936d6a3f73"
+    "revision": "94c51c9790004bf6f5bf79d21d2ae218"
   },
   {
     "url": "design/img/logo-thebrownfox.svg",
-    "revision": "2c5d620acf5037b76e1cd1489d42c54a"
+    "revision": "05ac201710f3fc570cbb14ece9c19a22"
   },
   {
     "url": "design/img/projects/agenda-tspoor.jpg",
@@ -109,7 +109,7 @@ self.__precacheManifest = [
   },
   {
     "url": "design/img/stef.jpg",
-    "revision": "e654c3bd428699966e9968e1369cefaa"
+    "revision": "94aa1043483b237ee030ce2988ce36d2"
   },
   {
     "url": "design/js/applib.js",
@@ -133,7 +133,7 @@ self.__precacheManifest = [
   },
   {
     "url": "projects.html",
-    "revision": "e01b81d431f2568ca19ff6c32bdcfff9"
+    "revision": "f919af5a227229c8145df4e63b0f4145"
   },
   {
     "url": "workbox-sw.prod.v2.1.3.js",
