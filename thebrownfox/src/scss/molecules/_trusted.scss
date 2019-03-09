@@ -1,0 +1,33 @@
+.trusted {
+  padding-top: 5rem;
+  &-title {
+    margin-bottom: 4rem;
+  }
+  &-companies {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  &-company {
+    filter: saturate(0%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 4rem;
+
+    transition: filter 0.2s;
+    a {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    img {
+      max-height: 9rem;
+    }
+
+    &:hover,
+    &:active,
+    &:focus {
+      filter: saturate(100%);
+    }
+  }
+}

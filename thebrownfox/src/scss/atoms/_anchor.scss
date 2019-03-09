@@ -1,0 +1,10 @@
+a {
+  font-size: 1.6rem;
+  color: $brand-primary;
+  text-decoration: none;
+  &:hover,
+  &:active,
+  &:focus {
+    color: lighten($brand-primary, 10);
+  }
+}

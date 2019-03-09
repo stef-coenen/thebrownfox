@@ -1,0 +1,7 @@
+img {
+  max-width: 100%;
+  &:not([src*="svg"]) {
+    width: auto;
+    height: auto;
+  }
+}

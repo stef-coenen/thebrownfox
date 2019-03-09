@@ -1,0 +1,38 @@
+@import "../variables";
+.intro {
+  @media (max-width: $screen-sm-max) {
+    .row {
+      flex-direction: column;
+    }
+  }
+  &-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-basis: 50%;
+    @media (max-width: $screen-sm-max) {
+      order: 2;
+    }
+    p {
+      margin: 3.5rem 0;
+    }
+  }
+  &-image {
+    flex-basis: 50%;
+    filter: sepia(90%) saturate(150%);
+    opacity: 0.9;
+    @media (max-width: $screen-sm-max) {
+      order: 1;
+    }
+    img {
+      width: 100%;
+    }
+  }
+  &-actions {
+    display: flex;
+    flex-direction: row;
+    p {
+      margin: auto 2rem;
+    }
+  }
+}

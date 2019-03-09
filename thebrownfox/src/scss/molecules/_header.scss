@@ -1,0 +1,50 @@
+@import "../variables";
+.header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  &-container {
+    display: flex;
+    flex-direction: row;
+
+    @media (max-width: $screen-md-max) {
+      flex-direction: column;
+    }
+  }
+  &-brand {
+    img {
+      width: 10rem;
+    }
+    @media (max-width: $screen-md-max) {
+      text-align: center;
+    }
+  }
+  &-nav {
+    margin: auto 0 auto auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    @media (max-width: $screen-md-max) {
+      margin: auto;
+    }
+    &-link {
+      font-size: 1.8rem;
+      padding: 2rem 1rem;
+      color: $brand-body-color;
+
+      &:hover,
+      &:active,
+      &:focus,
+      &.active {
+        color: $brand-body-color;
+        background-image: linear-gradient(
+          rgba($brand-primary, 0.8),
+          rgba($brand-primary, 0.8)
+        );
+        background-size: calc(100% - 2rem) 0.5rem;
+        background-repeat: no-repeat;
+        background-position: left 1rem bottom 2rem;
+      }
+    }
+  }
+}

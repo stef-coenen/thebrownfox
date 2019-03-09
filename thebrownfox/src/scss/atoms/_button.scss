@@ -1,0 +1,27 @@
+.btn {
+  display: block;
+  padding: 1rem 2rem;
+  transition: color 0.2s, background-color 0.2s;
+
+  &-primary {
+    background-color: $brand-primary;
+    color: $brand-white;
+    border: solid 2px $brand-primary;
+
+    &:hover,
+    &:focus,
+    &:active {
+      background-color: darken($brand-primary, 20);
+      color: darken($brand-white, 20);
+    }
+  }
+  &-secondary {
+    border: solid 2px $brand-primary;
+    &:hover,
+    &:focus,
+    &:active {
+      background-color: lighten($brand-primary, 20);
+      color: $brand-white;
+    }
+  }
+}

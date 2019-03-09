@@ -1,0 +1,11 @@
+@import "../variables";
+.footer {
+  background-color: $brand-primary;
+  color: $brand-white;
+  padding: 2rem 0;
+  margin-top: 7rem;
+  p {
+    margin: 0;
+    padding: 0;
+  }
+}
