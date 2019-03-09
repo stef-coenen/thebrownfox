@@ -9,7 +9,7 @@ const WhatIDo = () => (
   <Layout>
     <SEO title="What I do" />
     <TrustedBy />
-    {/* CTA block to add */}
+    {/* CTA block to add*/}
   </Layout>
 );
 
